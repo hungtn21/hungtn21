@@ -2,7 +2,7 @@
 - 👀 I’m interested in playing table-tennis ^^
 - 🌱 I’m currently learning Web/App Development and AI
 - 📫 HUSTの学生
-- ⚡ Fun fact: I wish "hành" did not exist
+- ⚡ Something weird: I wish "hành" did not exist
 
 <!---
 hungtn21/hungtn21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
